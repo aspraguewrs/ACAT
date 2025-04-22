@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/automated_culvert_analysis_workflow" >
+        <file>Mo.png</file>
+    </qresource>
+</RCC>

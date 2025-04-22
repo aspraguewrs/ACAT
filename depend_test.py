@@ -1,0 +1,3 @@
+from dep_installer import install_dependencies
+
+install_dependencies
